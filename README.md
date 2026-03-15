@@ -23,6 +23,7 @@ Run the script from the terminal:
 
 ```bash
 py src/troubleshooting.py
+```
 
 ## Purpose
 
