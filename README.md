@@ -20,6 +20,8 @@ This tool can help with basic troubleshooting tasks:
 ## How to run
 
 Run the script from the terminal:
+
+```bash
 py src/troubleshooting.py
 
 ## Purpose
