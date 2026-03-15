@@ -1,28 +1,30 @@
 # IT Troubleshooting Tool
 
-A small Python project for simple IT support scenarios.
+A small Python project that helps diagnose simple IT support problems.
 
 ## Features
 
-This tool can:
+This tool can help with basic troubleshooting tasks:
 
-- test the internet connection
-- show basic printer troubleshooting steps
-- show troubleshooting steps if a PC does not start
-- display simple system information
+- test internet connectivity
+- provide printer troubleshooting steps
+- provide help if a PC does not start
+- display basic system information
 
 ## Technologies
 
 - Python
-- platform
 - subprocess
-
-## Why I built this project
-
-I am currently developing my skills in IT support and Python.
-This project is part of my practical learning journey into IT.
+- platform
 
 ## How to run
 
-```bash
-py troubleshooting.py
+Run the script from the terminal:
+py src/troubleshooting.py
+
+## Purpose
+
+I built this project while learning Python and IT support fundamentals.
+
+The goal was to create a small command-line tool that demonstrates
+basic troubleshooting logic and simple system diagnostics.
